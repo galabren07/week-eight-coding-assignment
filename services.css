@@ -1,0 +1,63 @@
+body{
+    background-color: rgba(242, 220, 231, 0.908);
+    background-position: center;
+    background-size: 50% 50%;
+    background-image: center;
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vh;
+    
+    }
+#services{
+    margin: 20% 20% 20% 20%;
+    z-index: -1;
+    margin:2cm;
+    size-adjust: auto;
+    padding: 50px 50px 50px 50px;
+    border: 30px solid white;
+    backdrop-filter: brightness(0.9);
+
+    
+   
+
+
+
+
+    
+    }
+     a{
+    font-size: xx-large;
+    color: aliceblue;
+
+     }
+     h3{
+    font-size:50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     }
+
+      h4{
+        font-size: 40px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      }
+      p{
+        font-size: 30px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: aliceblue;
+        top: 30px;
+        border: 2px solid rgba(245, 245, 245, 0.326);
+        border-width: 10px;
+
+      }
+
+      div{
+        font-size: xx-large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        outline-color: white;
+        position: absolute;
+        top: 5%;
+        right: 40%;
+        bottom: 20%;
+        left: 15%;
+  
+
+      }

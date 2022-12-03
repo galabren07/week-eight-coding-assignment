@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    line-height: 1.5cm;
+    font-family:Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    color: #111010;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    text-align: center;
+    background-color: aqua;
+  }
+
+  tr{
+    text-align: center;
+    font-size: xx-large;font-family: 'Courier New', Courier, monospace;
+   
+  }
+  td{
+background-color: rgba(240, 248, 255, 0.985);
+  }
+  h2{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  form{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  a{
+    font-size: xx-large;
+    position:static;
+    font-variant-position: initial;
+    color: black;
+  }
